@@ -20,7 +20,6 @@ import launch_ros.actions
 from launch.actions import DeclareLaunchArgument, OpaqueFunction
 from launch.substitutions import LaunchConfiguration
 
-
 configurable_parameters = [
     {
         'name': 'camera_name',
