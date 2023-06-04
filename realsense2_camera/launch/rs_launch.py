@@ -178,7 +178,7 @@ configurable_parameters = [
     },
     {
         'name': 'depth_module.exposure.1',
-        'default': '500',
+        'default': '33000',
         'description': 'Depth module first exposure value. Used for hdr_merge filter',
     },
     {
@@ -198,7 +198,7 @@ configurable_parameters = [
     },
     {
         'name': 'depth_module.exposure',
-        'default': '500',
+        'default': '33000',
         'description': 'Depth module manual exposure value',
     },
     {
